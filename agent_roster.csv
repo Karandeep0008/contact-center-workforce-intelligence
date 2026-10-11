@@ -1,0 +1,51 @@
+agent_id,agent_name,team,experience_months,shift,target_aht_seconds,target_csat,employment_status
+AG001,Agent 001,Billing,81,Morning,294,4.7,Active
+AG002,Agent 002,Sales,20,Morning,388,4.7,On Leave
+AG003,Agent 003,Technical Support,78,Evening,296,4.3,Active
+AG004,Agent 004,Billing,2,Afternoon,339,4.5,Active
+AG005,Agent 005,Customer Support,77,Evening,438,4.3,Active
+AG006,Agent 006,Technical Support,76,Evening,283,4.6,Active
+AG007,Agent 007,Billing,76,Afternoon,443,4.4,Active
+AG008,Agent 008,Billing,65,Evening,271,4.6,Active
+AG009,Agent 009,Customer Support,46,Morning,292,4.6,Active
+AG010,Agent 010,Sales,68,Morning,416,4.7,Active
+AG011,Agent 011,Sales,28,Morning,478,4.3,Active
+AG012,Agent 012,Technical Support,76,Evening,291,4.7,Active
+AG013,Agent 013,Retention,54,Afternoon,330,4.3,Active
+AG014,Agent 014,Billing,45,Morning,518,4.2,Active
+AG015,Agent 015,Sales,50,Afternoon,537,4.5,Active
+AG016,Agent 016,Customer Support,56,Morning,414,4.4,Active
+AG017,Agent 017,Retention,5,Evening,374,4.7,Active
+AG018,Agent 018,Customer Support,15,Afternoon,344,4.7,Active
+AG019,Agent 019,Billing,25,Afternoon,424,4.4,Active
+AG020,Agent 020,Retention,12,Afternoon,417,4.8,Active
+AG021,Agent 021,Billing,43,Evening,328,4.4,Active
+AG022,Agent 022,Sales,65,Afternoon,246,4.5,Active
+AG023,Agent 023,Technical Support,64,Morning,285,4.4,Active
+AG024,Agent 024,Technical Support,46,Morning,528,4.8,Active
+AG025,Agent 025,Billing,83,Night,365,4.3,Active
+AG026,Agent 026,Customer Support,55,Night,385,4.2,Active
+AG027,Agent 027,Sales,9,Evening,380,4.5,Active
+AG028,Agent 028,Customer Support,74,Morning,475,4.8,Active
+AG029,Agent 029,Customer Support,56,Night,259,4.7,Active
+AG030,Agent 030,Billing,62,Evening,264,4.6,Active
+AG031,Agent 031,Billing,55,Evening,323,4.7,Active
+AG032,Agent 032,Technical Support,54,Afternoon,386,4.7,Active
+AG033,Agent 033,Sales,10,Morning,442,4.5,On Leave
+AG034,Agent 034,Sales,55,Morning,387,4.4,Active
+AG035,Agent 035,Sales,77,Night,372,4.7,Active
+AG036,Agent 036,Customer Support,30,Afternoon,522,4.6,Active
+AG037,Agent 037,Customer Support,59,Morning,288,4.4,Active
+AG038,Agent 038,Sales,4,Afternoon,412,4.3,Active
+AG039,Agent 039,Customer Support,35,Afternoon,403,4.6,Active
+AG040,Agent 040,Billing,43,Morning,382,4.4,Active
+AG041,Agent 041,Sales,95,Evening,483,4.8,Active
+AG042,Agent 042,Billing,22,Evening,320,4.3,Active
+AG043,Agent 043,Billing,28,Evening,527,4.3,Active
+AG044,Agent 044,Sales,40,Afternoon,339,4.7,Active
+AG045,Agent 045,Billing,96,Evening,404,4.3,Active
+AG046,Agent 046,Billing,83,Afternoon,396,4.3,Active
+AG047,Agent 047,Sales,5,Evening,495,4.6,Active
+AG048,Agent 048,Customer Support,24,Morning,372,4.7,Active
+AG049,Agent 049,Billing,80,Afternoon,325,4.3,Active
+AG050,Agent 050,Customer Support,7,Morning,246,4.4,Active

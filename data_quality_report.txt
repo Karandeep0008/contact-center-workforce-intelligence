@@ -1,0 +1,29 @@
+CONTACT CENTER DATA QUALITY AUDIT
+Rows: 10000
+Columns: 17
+Duplicate rows: 0
+Duplicate call IDs: 0
+
+Missing values:
+call_id                      0
+call_datetime                0
+call_date                    0
+call_hour                    0
+day_of_week                  0
+agent_id                     0
+team                         0
+channel                      0
+call_type                    0
+call_status                  0
+wait_time_seconds            0
+handling_time_seconds        0
+resolved_first_contact       0
+survey_responded             0
+csat_score                5439
+sales_conversion             0
+revenue_inr                  0
+
+Call status counts:
+call_status
+Answered     9461
+Abandoned     539
