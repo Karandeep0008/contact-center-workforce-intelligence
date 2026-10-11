@@ -67,6 +67,9 @@ The dashboard includes:
 - An interactive team slicer to filter the visuals.
 
 The report file is `Contact_Center_Workforce_Dashboard.pbix`.
+### Dashboard Preview
+
+![Contact Center Workforce Intelligence Dashboard](dashboard-preview.png)
 
 ## Data Quality
 
